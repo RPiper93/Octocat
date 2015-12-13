@@ -1,1 +1,3 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+The upstream remote is the original repository that was copied. When changes are made to a repository and are sent "upstream", the changes are then available to everyone working from the same "upstream" remote.
